@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="80" viewBox="0 0 700 80" role="img" aria-labelledby="title desc">
+  <title id="title">比奇堡码农派大星的自我介绍</title>
+  <desc id="desc">Hi🙂，我是比奇堡码农派大星🐳，接触过嵌入式项目开发🛠️（物联网大赛国一），喜欢打游戏🎮（FPS🔫、策略♟️、解密🔎）希望能够做出一款自己的独立游戏。</desc>
+  <defs>
+    <linearGradient id="intro-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7020B8" />
+      <stop offset="22%" stop-color="#8050E8" />
+      <stop offset="45%" stop-color="#2878FF" />
+      <stop offset="65%" stop-color="#00BDD6" />
+      <stop offset="82%" stop-color="#20E99B" />
+      <stop offset="100%" stop-color="#8AFF00" />
+    </linearGradient>
+    <clipPath id="reveal-1"><rect class="reveal first" x="20" y="0" width="0" height="80" /></clipPath>
+    <clipPath id="reveal-2"><rect class="reveal second" x="20" y="0" width="0" height="80" /></clipPath>
+    <clipPath id="reveal-3"><rect class="reveal third" x="20" y="0" width="0" height="80" /></clipPath>
+    <clipPath id="reveal-4"><rect class="reveal fourth" x="20" y="0" width="0" height="80" /></clipPath>
+  </defs>
+  <style>
+    text { font-family: "Noto Sans SC", "Microsoft YaHei", "PingFang SC", sans-serif; font-size: 24px; font-weight: 600; fill: url(#intro-gradient); }
+    .line { opacity: 0; animation: show-line 24s linear infinite; }
+    .reveal { animation: type-line 24s steps(28, end) infinite; }
+    .first { animation-delay: 0s; }
+    .second { animation-delay: 6s; }
+    .third { animation-delay: 12s; }
+    .fourth { animation-delay: 18s; }
+    @keyframes show-line { 0%, 24.99% { opacity: 1; } 25%, 100% { opacity: 0; } }
+    @keyframes type-line { 0% { width: 0; } 15%, 23% { width: 660px; } 24.99%, 100% { width: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .line, .reveal { animation: none; }
+      .line.first { opacity: 1; }
+      .reveal.first { width: 660px; }
+    }
+  </style>
+  <!-- Edit these four text elements to update the introduction. -->
+  <g class="line first" clip-path="url(#reveal-1)"><text x="350" y="49" text-anchor="middle">Hi🙂，我是比奇堡码农派大星🐳</text></g>
+  <g class="line second" clip-path="url(#reveal-2)"><text x="350" y="49" text-anchor="middle">接触过嵌入式项目开发🛠️（物联网大赛国一）</text></g>
+  <g class="line third" clip-path="url(#reveal-3)"><text x="350" y="49" text-anchor="middle">喜欢打游戏🎮（FPS🔫、策略♟️、解密🔎）</text></g>
+  <g class="line fourth" clip-path="url(#reveal-4)"><text x="350" y="49" text-anchor="middle">希望能够做出一款自己的独立游戏。</text></g>
+</svg>
