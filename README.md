@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-snake-dark.svg" />
+</picture>
