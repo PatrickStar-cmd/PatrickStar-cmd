@@ -8,7 +8,7 @@
 
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&amp;weight=600&amp;size=26&amp;duration=2600&amp;pause=1400&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=600&amp;height=65&amp;lines=%E6%AF%94%E5%A5%87%E5%A0%A1%E7%A0%81%E5%86%9C%E6%B4%BE%E5%A4%A7%E6%98%9F%E2%9A%A1;%E7%89%A9%E8%81%94%E7%BD%91%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B%E5%9B%BD%E4%B8%80;%E8%8A%82%E8%83%BD%E5%87%8F%E6%8E%92%E5%A4%A7%E8%B5%9B%E5%9B%BD%E4%B8%80;%E6%AC%A2%E8%BF%8E%E4%BA%A4%E6%B5%81%E3%80%82" alt="比奇堡码农派大星⚡，物联网设计竞赛国一，节能减排大赛国一，欢迎交流。" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&amp;weight=600&amp;size=24&amp;duration=3600&amp;pause=1800&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=650&amp;height=65&amp;lines=Hi%F0%9F%99%82%EF%BC%8C%E6%88%91%E6%98%AF%E6%AF%94%E5%A5%87%E5%A0%A1%E7%A0%81%E5%86%9C%E6%B4%BE%E5%A4%A7%E6%98%9F%E2%9A%A1;%E6%8E%A5%E8%A7%A6%E8%BF%87%E5%B5%8C%E5%85%A5%E5%BC%8F%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%EF%BC%88%E7%89%A9%E8%81%94%E7%BD%91%E5%A4%A7%E8%B5%9B%E5%9B%BD%E4%B8%80%EF%BC%89;%E5%96%9C%E6%AC%A2%E6%89%93%E6%B8%B8%E6%88%8F%EF%BC%88FPS%E3%80%81%E7%AD%96%E7%95%A5%E3%80%81%E8%A7%A3%E5%AF%86%EF%BC%89;%E5%B8%8C%E6%9C%9B%E8%83%BD%E5%A4%9F%E5%BC%80%E5%8F%91%E4%B8%80%E6%AC%BE%E8%87%AA%E5%B7%B1%E7%9A%84%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F" alt="Hi🙂，我是比奇堡码农派大星⚡，接触过嵌入式项目开发（物联网大赛国一），喜欢打游戏（FPS、策略、解密）希望能够开发一款自己的独立游戏" />
 
   <br />
   <br />
