@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&amp;logo=espressif&amp;logoColor=white" alt="Espressif 乐鑫" />
+  <img src="https://raw.githubusercontent.com/PatrickStar-cmd/PatrickStar-cmd/main/assets/matlab-badge.svg" alt="MATLAB" />
   <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&amp;logo=steam&amp;logoColor=white" alt="Steam" />
   <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&amp;logo=epicgames&amp;logoColor=white" alt="Epic Games" />
 
